@@ -2,7 +2,7 @@ pub struct Display {
 
 }
 
-pub impl Display {
+impl Display {
     pub fn new() -> Display {
         Display {}
     }

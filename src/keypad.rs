@@ -2,7 +2,7 @@ pub struct Keypad {
 
 }
 
-pub impl Keypad {
+impl Keypad {
     pub fn new() -> Keypad {
         Keypad {}
     }
